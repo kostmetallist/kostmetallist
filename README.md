@@ -1,2 +1,2 @@
 ### First Class IT Specialist
-![TEHC](resources/tehc.png)
+![TEHC](https://github.com/kostmetallist/kostmetallist/blob/master/resources/tehc.png)
