@@ -1,5 +1,5 @@
 # About me
-<img align="right" width="150" height="150" alt="Image" src="https://github.com/kostmetallist/kostmetallist/blob/master/resources/figure-it-out.jpg">
+<img align="right" width="197" height="156" alt="Image" src="https://github.com/kostmetallist/kostmetallist/blob/master/resources/figure-it-out.jpg">
 
 ## General
 
