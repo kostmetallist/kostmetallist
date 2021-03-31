@@ -11,12 +11,12 @@
 ## Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=synthwave" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kostmetallist&show_icons=true&theme=synthwave" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=synthwave" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kostmetallist&show_icons=true&theme=synthwave" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=compact" />
 </p>
 
 ---
