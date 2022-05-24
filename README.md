@@ -30,7 +30,7 @@ programming
     <img height="28px" width="220px" src="https://img.shields.io/static/v1?label=Mailto&message=kostmetallist@gmail.com&color=red&style=for-the-badge">
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/konstantin-kukushkin-0aba5b170" target="_blank">
+  <a href="https://www.linkedin.com/in/konstantin-kukushkin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
