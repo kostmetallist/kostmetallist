@@ -13,7 +13,7 @@ programming
 
 ## Statistics
 
-<p align="left">
+<p align="left" width="49%">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=github_dark_dimmed"
@@ -26,7 +26,7 @@ programming
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist" />
   </picture>
 </p>
-<p align="right">
+<p align="right" width="49%">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&theme=github_dark_dimmed"
