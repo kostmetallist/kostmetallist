@@ -14,8 +14,28 @@ programming
 ## Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=synthwave" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kostmetallist&show_icons=true&theme=synthwave" />
+  <picture width="49%">
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&show_icons=true" />
+  </picture>
+  <picture width="49%">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=kostmetallist&show_icons=true" />
+  </picture>
 </p>
 
 <p align="center">
