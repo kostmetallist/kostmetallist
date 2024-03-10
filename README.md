@@ -30,14 +30,14 @@ programming
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&theme=github_dark_dimmed"
+      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&hide=stars&rank_icon=github&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist"
+      srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&hide=stars&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=kostmetallist" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kostmetallist&hide=stars&rank_icon=github" />
   </picture>
 </p>
 
