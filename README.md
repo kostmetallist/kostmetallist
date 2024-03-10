@@ -13,7 +13,7 @@ programming
 
 ## Statistics
 
-<p align="left" width="49%">
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=github_dark_dimmed"
@@ -26,7 +26,8 @@ programming
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist" />
   </picture>
 </p>
-<p align="right" width="49%">
+
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kostmetallist&theme=github_dark_dimmed"
@@ -41,7 +42,17 @@ programming
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=compact" />
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=donut-vertical&langs_count=10&exclude_repo=prom-extended&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=donut-vertical&langs_count=10&exclude_repo=prom-extended"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostmetallist&layout=donut-vertical&langs_count=10&exclude_repo=prom-extended" />
+  </picture>
 </p>
 
 ---
