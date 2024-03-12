@@ -14,6 +14,10 @@ programming
 ## Statistics
 
 <p align="center">
+  <img src="https://github-trophies.vercel.app/?username=kostmetallist&theme=algolia&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=kostmetallist&theme=github_dark_dimmed"
