@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "yaml.schemaStore.enable": false,
+    "editor.rulers": [
+        80,
+        100,
+        180
+    ],
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/desktop.ini": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "telemetry.telemetryLevel": "off",
+    "editor.accessibilitySupport": "off",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "remote.autoForwardPortsFallback": 30
+}
