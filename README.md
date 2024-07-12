@@ -4,10 +4,9 @@
 
 :computer: Have an experience of programming since 2015
 
-:speech_balloon: Ready to collaborate and bring some fresh ideas into your projects
+:mortar_board: Master of Computer Science
 
-:mortar_board: Most of the skills are related to backend development, cloud computing and system
-programming
+:muscle: Python, Java, Javascript, Go
 
 ---
 
