@@ -1,3 +1,6 @@
+# Body of the `prompt` function can be retrieved from within an active shell with
+# $ (Get-Command Prompt).ScriptBlock
+
 function prompt {
     write-host "$env:COMPUTERNAME" -ForegroundColor Yellow -NoNewline
     write-host " @ " -NoNewline
