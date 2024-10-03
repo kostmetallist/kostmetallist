@@ -15,5 +15,10 @@
     "telemetry.telemetryLevel": "off",
     "editor.accessibilitySupport": "off",
     "editor.unicodeHighlight.nonBasicASCII": false,
-    "remote.autoForwardPortsFallback": 30
+    "remote.autoForwardPortsFallback": 30,
+    "pylint.lintOnChange": true,
+    "mypy.extraArguments": [
+        "--enable-incomplete-feature=NewGenericSyntax"
+    ],
+    "python.analysis.autoImportCompletions": true
 }
