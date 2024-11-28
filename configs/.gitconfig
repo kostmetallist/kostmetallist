@@ -1,0 +1,6 @@
+[core]
+	editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = input
+	eol = lf
+[user]
+	email = 
