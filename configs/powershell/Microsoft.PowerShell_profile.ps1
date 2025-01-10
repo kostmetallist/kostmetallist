@@ -1,4 +1,9 @@
+# Consider placing this profile into ~/Documents/PowerShell
+
 Set-Alias -Name ll -Value ls
+
+# Body of the `prompt` function can be retrieved from within an active shell with
+# $ (Get-Command Prompt).ScriptBlock
 
 function prompt {
     write-host "$env:COMPUTERNAME" -ForegroundColor Yellow -NoNewline
