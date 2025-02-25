@@ -1,6 +1,13 @@
 [core]
-	editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
-	autocrlf = input
-	eol = lf
+    editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+    autocrlf = input
+    eol = lf
+[color]
+    status=auto
+    branch=auto
+    interactive=auto
+    diff=auto
 [user]
-	email = 
+    email = 
+[push]
+    autoSetupRemote = true
