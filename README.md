@@ -2,11 +2,13 @@
 
 ## General
 
-:computer: Have an experience of programming since 2015
+👨🏻‍💻 Software development since 2015
 
-:mortar_board: Master of Computer Science
+👨🏻‍🏫 Mentorship and team management since 2021
 
-:muscle: Python, Java, Javascript, Go
+🎓 Master of Computer Science
+
+💪🏻 Python, Java, Typescript, Jira, Agile
 
 ---
 
