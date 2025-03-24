@@ -12,20 +12,20 @@
 	editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
 	eol = lf
 [diff]
-    algorithm = histogram
-    colorMoved = plain
-    mnemonicPrefix = true
-    renames = true
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
 [fetch]
-    prune = true
-    pruneTags = true
-    all = true
+	prune = true
+	pruneTags = true
+	all = true
 [init]
 	defaultBranch = master
 [push]
-    default = simple
-    autoSetupRemote = true
-    followTags = true
+	default = simple
+	autoSetupRemote = true
+	followTags = true
 [rerere]
 	enabled = true
 	autoupdate = true
