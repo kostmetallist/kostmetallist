@@ -1,13 +1,35 @@
-[core]
-    editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
-    autocrlf = input
-    eol = lf
+[branch]
+	sort = -committerdate
 [color]
-    status=auto
-    branch=auto
-    interactive=auto
-    diff=auto
-[user]
-    email = 
+	status=auto
+	branch=auto
+	interactive=auto
+	diff=auto
+[column]
+	ui = auto
+[core]
+	autocrlf = input
+	editor = \"%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	eol = lf
+[diff]
+    algorithm = histogram
+    colorMoved = plain
+    mnemonicPrefix = true
+    renames = true
+[fetch]
+    prune = true
+    pruneTags = true
+    all = true
+[init]
+	defaultBranch = master
 [push]
+    default = simple
     autoSetupRemote = true
+    followTags = true
+[rerere]
+	enabled = true
+	autoupdate = true
+[tag]
+	sort = version:refname
+[user]
+	email = 
