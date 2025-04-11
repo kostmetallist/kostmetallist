@@ -36,3 +36,5 @@ function prompt {
     write-host ">" -ForegroundColor Green -NoNewline
     return " "
 }
+
+# To allow profile execution consider running `Set-ExecutionPolicy bypass` in Administrator's PS session
