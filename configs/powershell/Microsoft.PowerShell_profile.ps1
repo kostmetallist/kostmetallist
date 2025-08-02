@@ -38,3 +38,5 @@ function prompt {
 }
 
 # To allow profile execution consider running `Set-ExecutionPolicy bypass` in Administrator's PS session
+# OR
+# Open file "Properties" and at the bottom of the dialogue box click "Unblock"
